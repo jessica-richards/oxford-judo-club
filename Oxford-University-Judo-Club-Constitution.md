@@ -1,7 +1,6 @@
-# Oxford University Judo Club
-## Constitution
+# Oxford University Judo Club Constitution
 
-### 1 Name and Objects
+## 1 Name and Objects
 The Club is called the Oxford University Judo Club (OUJC). This is a federal name which incorporates the following University teams: the men's first team, the men's second team, and the women's first team.
 
 The objectives of the Club are:
@@ -14,7 +13,7 @@ The objectives of the Club are:
 
 The Club shall be a non-profit making body, and any surplus of subscription and grant income over expenditure that may arise from time to time shall be used for the maintenance and improvement of its facilities or for specific projects consistent with the objectives defined below.
 
-### 2 Compliance
+## 2 Compliance
 
 **2.1** The Club shall be administered in accordance with the regulations for University Clubs and the property which are published from time to time in the Proctors' and Assessor's Memorandum ("the Proctors' Memorandum"). At the time of the adoption of this Constitution, the Club is designated by the Proctors as an established sport.
 
@@ -30,7 +29,7 @@ The Club shall be a non-profit making body, and any surplus of subscription and 
 
 **2.7** At least one practice session will be specifically designated for beginners.
 
-### 3 Membership
+## 3 Membership
 
 **3.1** The members of the Club shall be those who are eligible and apply for membership of the Club, who are admitted to and maintained in membership by the Committee, and who have paid the relevant Club Subscription.
 
@@ -43,7 +42,7 @@ The Club shall be a non-profit making body, and any surplus of subscription and 
 - (c) Other persons not being resident junior members of the University, or of one of the institutions listed in **3.3 (b)** above, provided that non-university members shall not constitute more than one-fifth of the total membership;
 - (d) Members as specified under **3.3 (c)** shall inform themselves of the regulations regarding non-University use of the Sports Centre;
 
-**3.4.** All members shall, on joining, automatically become members of "Oxford Judo".
+**3.4** All members shall, on joining, automatically become members of "Oxford Judo".
 
 **3.5** All members shall be required to sign a declaration accepting all responsibility for possible injury, loss of personal effects, etc. It will be communicated to members that the Club recommends BJA individual membership.
 
@@ -51,7 +50,7 @@ The Club shall be a non-profit making body, and any surplus of subscription and 
 
 **3.7** OUJC will under no circumstances place students under any pressure to take part in or pass any form of initiation as part of their membership of the club. Students must be able and encouraged to participate in activities in an atmosphere free from discrimination or fear.
 
-### 4 Meetings of Members
+## 4 Meetings of Members
 
 **4.1** There shall be an Annual General Meeting for all members of the Club in Hilary Full Term, convened on the notice board of the Dojo by the secretary on not less than fourteen days' notice.
 
@@ -71,7 +70,7 @@ fourteen days before the date of the Meeting.
 
 **4.6** Any alteration to this Constitution shall require the approving vote of two-thirds of those present in person or by proxy at a General Meeting. Notice of intention to move a constitutional amendment shall be given to the Committee at least fifteen days before the relevant General Meeting.
 
-### 5 The Committee
+## 5 The Committee
 
 **5.1** The affairs of the Club shall be administrated by a Committee consisting of not more than ten persons, which shall determine the subscriptions payable by the members of the club, and have ultimate responsibility for the activities of the club. Members of the University shall at all times make up the majority of the members of the Committee. The Committee shall have control of the funds and property of the Club, and of its administration. The Committee shall meet whenever necessary for the proper conduct of the Club's activities.
 
@@ -95,7 +94,7 @@ fourteen days before the date of the Meeting.
 - (h) provide the Insurance Section with full details of any insurance cover purchased inspection by the Proctors on request; to all members of the Committee; appointment and resignation or removal of Office Holders and other members of the Committee; who have proposed them on the notice board. the Constitution; every Full Term of the programme of fixtures which has been arranged for that term (e.g. by providing them a copy of the fixture); from or through a national governing body pursuant to paragraph **2(b)** above;
 - (i) inform the Proctors if the Club ceases to operate, or is to be dissolved, and in doing so present a final statement of accounts.
 
-**5.6.** The Treasurer shall:
+**5.6** The Treasurer shall:
 
 - (a) keep proper records of the Club's financial transactions in accordance with current accepted accounting rules and practices;
 - (b) develop and implement control procedures to minimize the risk of financial exposure, such as procedures developed under **26(g)**;
@@ -142,7 +141,7 @@ fourteen days before the date of the Meeting.
 
 **5.19** The Committee shall have the power to award Honorary Offices at a Committee meeting to people of great importance to the club. Honorary Officers need to be approved by two-thirds of the Committee. Honorary Officers are not part of the Committee and have no votes unless they are paid up full members of the club. The position is held for life.
 
-### 6 Indemnity
+## 6 Indemnity
 
 **6.1** A general disclaimer clause will be appended to the notice board reading:
 
@@ -152,13 +151,13 @@ fourteen days before the date of the Meeting.
 
 **6.3** So far as may be permitted by law, the Club may purchase and maintain for any member of the Committee or Officer of the Club insurance cover against liability which by virtue or any rule of law may attach to them in respect of any negligence, default, breach of duty or breach of trust of which they may be guilty in relation to the Club and against all costs charges, losses and expenses and liabilities incurred by them and for which they are entitled to be indemnified by the Club by virtue of paragraph **2.4**.
 
-### 7 Dissolution
+## 7 Dissolution
 
 **7.1** The Club may be dissolved at any time by the approving votes of the two-thirds of those present in person or by proxy at a General Meeting. The Club may also be dissolved (without need for any resolution of the members) by means of not less than thirty days' notice from the Proctors to the Secretary of the Club if at any time the Club ceases to be registered with the Proctors.
 
 **7.2** In the event of the Club being dissolved, its assets shall not be distributed amongst the members, but shall be paid to, or at the direction of the University.
 
-### 8 Interpretation
+## 8 Interpretation
 Any question about the interpretation of this Constitution shall be settled by the Proctors.
 
 **Approved at the OUJC Annual General Meeting**

@@ -2,21 +2,21 @@
 ## Constitution
 
 ### 1 Name and Objects
-The club is called the Oxford University Judo Club (OUJC). This is a federal name which incorporates the following University teams: the men's first team, the men's second team and the women's first team.
+The Club is called the Oxford University Judo Club (OUJC). This is a federal name which incorporates the following University teams: the men's first team, the men's second team, and the women's first team.
 
-The objectives of the club are:
+The objectives of the Club are:
 
 - (a) to organise, in collaboration with the Oxford City Judo Club, training and instruction in Judo for its members, both men and women, in the spirit originally defined by Judo's founder, Professor Jigoro Kano.
 - (b) to compete annually against Cambridge University and, from time to time, with any other UK or overseas University as the Committee may determine to be appropriate;
 - (c) to participate in the British Universities and Colleges Sport (BUCS) National Championships both at team and individual level;
-- (d) to engage with the Oxford City Club in joint activities to the mutual benefit of both clubs including competing together, where appropriate, under the "Oxford Judo" team logo.
+- (d) to engage with the Oxford City Club in joint activities for the mutual benefit of both clubs (including competing together where appropriate) under the "Oxford Judo" team logo.
 - (e) to support the activities of "Oxford and Cambridge Judo" in promoting and maintaining active relationships with Japanese university Judo and with 'Old Blues' of both Universities;
 
-The Club shall be a non-profit making body and any surplus of subscription and grant income over expenditure that may arise from time to time shall be used for the maintenance and improvement of its facilities or for specific projects consistent with the objectives defined below.
+The Club shall be a non-profit making body, and any surplus of subscription and grant income over expenditure that may arise from time to time shall be used for the maintenance and improvement of its facilities or for specific projects consistent with the objectives defined below.
 
 ### 2 Compliance
 
-**2.1** The Club shall be administered in accordance with the regulations for University Clubs and the property which are published from time to time in the Proctors' and Assessor's Memorandum ("the Proctors' Memorandum"). At the time of the adoption of this Constitution the Club is designated by the Proctors as an established sport.
+**2.1** The Club shall be administered in accordance with the regulations for University Clubs and the property which are published from time to time in the Proctors' and Assessor's Memorandum ("the Proctors' Memorandum"). At the time of the adoption of this Constitution, the Club is designated by the Proctors as an established sport.
 
 **2.2** The Club shall operate under the auspices of the British Judo Association (BJA) and be affiliated to the BJA and make every effort to comply with all the safety procedures which the National Body prescribes or recommends as good practice.
 
@@ -26,7 +26,7 @@ The Club shall be a non-profit making body and any surplus of subscription and g
 
 **2.5** No practice session of any form shall take place except under the overall direction of a full or associate member holding a currently validated coaching award of the British Judo Association or of the International Judo Federation and who has been individually approved by the Director of the University Sports Centre.
 
-**2.6** Practice sessions shall normally take place in the Iffley Road Dojo. Up to four sessions per a week shall be held during full University term, at times to be published in the Sports Centre notice board. Out of term sessions will be held on days and at times to be agreed in advance with the Director of the Sports Centre. All practice sessions and the appropriate coaching resources may be shared with the Oxford City Judo Club under the auspices of Oxford Judo.
+**2.6** Practice sessions shall normally take place in the Iffley Road Dojo. Up to four sessions per week shall be held during full University term, at times to be published on the Sports Centre notice board. Out of term sessions will be held on days and at times to be agreed in advance with the Director of the Sports Centre. All practice sessions and the appropriate coaching resources may be shared with the Oxford City Judo Club under the auspices of Oxford Judo.
 
 **2.7** At least one practice session will be specifically designated for beginners.
 
@@ -40,10 +40,10 @@ The Club shall be a non-profit making body and any surplus of subscription and g
 
 - (a) Junior members of the University's Permanent Private Halls who are not matriculated into the University;
 - (b) Junior members of Ruskin College; Plater College; Ripon College, Cuddesdon; St Stephen's House; The Oxford Institute of Legal Practice and The Westminster Institute of Oxford Brookes University;
-- (c) Other persons not being resident junior members of the University, or of one of the institutions listed in (b) above, provided that non-university members shall not constitution more than one-fifth of the total membership;
-- (d) Members as specified under (c) shall inform themselves of the regulations regarding non-University use of the Sports Centre;
+- (c) Other persons not being resident junior members of the University, or of one of the institutions listed in **3.3 (b)** above, provided that non-university members shall not constitute more than one-fifth of the total membership;
+- (d) Members as specified under **3.3 (c)** shall inform themselves of the regulations regarding non-University use of the Sports Centre;
 
-**3.4.** All members shall on joining, shall automatically become members of "Oxford Judo".
+**3.4.** All members shall, on joining, automatically become members of "Oxford Judo".
 
 **3.5** All members shall be required to sign a declaration accepting all responsibility for possible injury, loss of personal effects, etc. It will be communicated to members that the Club recommends BJA individual membership.
 
@@ -57,7 +57,7 @@ The Club shall be a non-profit making body and any surplus of subscription and g
 
 **4.2** The Annual General Meeting will:
 
-- (a) receive the annual reports of the Committee for the previous year and the annual accounts of the Club for the previous year, the report of the accounts having been approved by the Committee;
+- (a) receive the annual reports of the Committee for the previous year, and the annual accounts of the Club for the previous year, the report of the accounts having been approved by the Committee;
 - (b) receive a report from the Committee on the Club's compliance with paragraph 2 above;
 - (c) elect/appoint Members of the Committee in accordance with paragraphs **19** to accounts of the Club for the previous year, the report of the accounts having been approved by the Committee; **21** inclusive below: the Committee's nominations for the Officers, the Captains (Men and Women), the Chairman, and the Senior Member shall be contained in the notice of the Meeting: any alternative nominations must be seconded and have the consent of the nominee, and must be received in writing by the Secretary not less than seven days before the date of the Meeting: nominations for other Committee Members may be taken from the floor of the meeting;
 - (d) consider any motions of which due notice has been given, and any other relevant business;
@@ -79,7 +79,7 @@ fourteen days before the date of the Meeting.
 
 **5.3** The Committee shall be made up of the President, the Secretary, the Treasurer (together, the "Office Holders"; and their offices are referred to as "the Officers"), the Captains (Men and Women), the Club Welfare Officer, the Chairman of Oxford Judo and the Senior Member. The Chairman of Oxford Judo and Senior Member may be the same person.
 
-**5.4** The President, the Secretary and the Treasurer shall each be either a member of the Club whose eligibility stems from paragraphs **3.2** or **3.3(a)** or **3.3(b)** above or (with approval from the Proctors) a member of Congregation. If their eligibility stems from **3.3(a)** or **3.3(b)** above, on election to office they must sign an undertaking to abide by the Proctors Memorandum and to accept the authority of the Proctors on Club matters. All members of the Committee (with exception of the Senior Member) shall be individual members of the BJA.
+**5.4** The President, the Secretary, and the Treasurer shall each be either a member of the Club whose eligibility stems from paragraphs **3.2** or **3.3(a)** or **3.3(b)** above or (with approval from the Proctors) a member of the Congregation. If their eligibility stems from **3.3(a)** or **3.3(b)** above, on election to office they must sign an undertaking to abide by the Proctors Memorandum and to accept the authority of the Proctors on Club matters. All members of the Committee (with exception of the Senior Member) shall be individual members of the BJA.
 
 **5.4** The President shall have the right to preside at all meetings of the members of the Club and at all meetings of the Committee. Should the President be absent, or decline to take the chair, the Committee shall elect another member of the Committee to chair the meeting.
 
@@ -89,7 +89,7 @@ fourteen days before the date of the Meeting.
 - (b) give notice of meetings of the members and the Committee;
 - (c) draw up minutes of those meetings and circulate them within twenty-four hours to all members of the Committee;
 - (d) notify the Proctors (through the Director of Sport) promptly following the appointment and resignation or removal of Office Holders and other members of the Committee;
-- (e) put all proposed constitutional amendments together with the name of those who have proposed them on the notice board;
+- (e) put all proposed constitutional amendments together with the names of those who have proposed them on the notice board;
 - (f) advise the Proctors (through the Director of Sport) promptly of any changes in the Constitution;
 - (g) notify the Proctors (through the Director of Sport) not later than second week of every Full Term of the programme of fixtures which has been arranged for that term (e.g. by providing them a copy of the fixture);
 - (h) provide the Insurance Section with full details of any insurance cover purchased inspection by the Proctors on request; to all members of the Committee; appointment and resignation or removal of Office Holders and other members of the Committee; who have proposed them on the notice board. the Constitution; every Full Term of the programme of fixtures which has been arranged for that term (e.g. by providing them a copy of the fixture); from or through a national governing body pursuant to paragraph **2(b)** above;
@@ -128,7 +128,7 @@ fourteen days before the date of the Meeting.
 
 **5.12** The members of the Club shall not appoint several individuals to jointly hold any of the Offices, nor allow any individual to hold more than one Office at a time.
 
-**5.13** If during the period between the annual elections to Offices and vacancies occur amongst the members of the Committee, the Committee shall have the power of filling the vacancy or vacancies up to the next Annual General Meeting by co-optation.
+**5.13** If vacancies occur amongst the members of the Committee during the period between the annual elections to Offices, the Committee shall have the power of filling the vacancy or vacancies up to the next Annual General Meeting by co-optation.
 
 **5.14** Each Office Holder must, on relinquishing their appointment, promptly hand to their successor in Office (or to another member of the Club nominated by the Committee) all official documents and records belonging to the Club, together with (on request from the Committee) any other property of the Club which may be in their possession; and must complete any requirements to transfer authority relating to control of the Clubs bank accounts, building society accounts, or other financial affairs.
 
@@ -140,7 +140,7 @@ fourteen days before the date of the Meeting.
 
 **5.18** No member of the Committee shall be removed from office except by the approving votes of two-thirds of those present in person or by proxy at a General Meeting.
 
-**5.19** The Committee shall have the power to award Honorary Offices at a Committee meeting to people of great importance to the club. Honorary Officers need to be approved by two-thirds of the Committee. Honorary Officers are not part of the Committee and have no votes unless they are paid up full members of the club. The position is held for lifetime.
+**5.19** The Committee shall have the power to award Honorary Offices at a Committee meeting to people of great importance to the club. Honorary Officers need to be approved by two-thirds of the Committee. Honorary Officers are not part of the Committee and have no votes unless they are paid up full members of the club. The position is held for life.
 
 ### 6 Indemnity
 

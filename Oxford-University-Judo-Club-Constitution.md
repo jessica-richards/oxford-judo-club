@@ -156,7 +156,7 @@ The quorum for a General Meeting shall be ten members present in person or by pr
 
 **7.2** In the event of the Club being dissolved, its assets shall not be distributed amongst the members, but shall be paid to, or at the direction of the University.
 
-### 7 Interpretation
+### 8 Interpretation
 Any question about the interpretation of this Constitution shall be settled by the Proctors.
 
 **Approved at the OUJC Annual General Meeting**

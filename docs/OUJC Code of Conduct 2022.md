@@ -79,9 +79,8 @@
 - **5.1** The club's permanent coaching staff are:
   - Chris Doherty (6th Dan)
   - Carol Doherty (5th Dan)
-  - Tony Buley (2nd Dan)
 
-  All three hold Level 3 coaching certificates (including first aid certificates) awarded by the BJA. In addition James Birnie, 4th Dan holds a BJA Level 2 BJA coaching certificate. These certificates provide a level of insurance cover as required by the University authorities. It is their personal duty to ensure that these are revalidated annually and to inform the Sports Department that insurance cover has been extended for a further year.
+  Both hold BJA Level 3 coaching certificates (including first aid certificates). In addition, James Birnie (4th Dan) and Laura Scarlett-McAllister (3rd Dan) hold BJA Level 2 and 3 coaching certificates respectively. These certificates provide a level of insurance cover as required by the University authorities. It is their personal duty to ensure that these are revalidated annually and to inform the Sports Department that insurance cover has been extended for a further year.
 
 - **5.2** In addition, student members of the club who hold current BJA coaching certificates and who are registered with the University Sports Department may conduct training sessions at a level appropriate to their coaching qualification as specified by the BJA.
 

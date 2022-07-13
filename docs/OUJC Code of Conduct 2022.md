@@ -42,9 +42,9 @@
 - Our proposed term-time activities for this academic year are:
   Day | Time | Location | Description
   ----|------|----------|-------------
-  Sundays   | 16.00 - 18.00 | Dojo      | General
-  Tuesdays  | 16.30 - 18.30 | Dojo      | Beginners
-  Thursdays | 18.00 - 21.00 | Main Hall | Randori (graded members only)
+  Sundays   | 17.00 - 19.00 | Dojo      | General
+  Tuesdays  | 17.30 - 19.30 | Dojo      | Beginners
+  Thursdays | 19.00 - 21.00 | Main Hall | Randori (graded members only)
   Fridays   | 18.00 - 20.30 | Dojo      | Competitive Technical session / Womens session (run ad hoc)
 
   Sessions out of term will be coordinated with the Sports Federation.

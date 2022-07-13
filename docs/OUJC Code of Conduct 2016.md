@@ -1,6 +1,6 @@
 # Oxford University Judo Club
 
-## Code of Conduct 2016 - 2017
+## Code of Conduct 20122-2023
 
 ### Overview
 
@@ -9,8 +9,8 @@
 3. Specialist Officers
 4. Event Organisers & Activity Leaders
 5. University/Club Activities
-5. Activity Registration
 6. First Aid
+7. Activity Registration
 8. Accident and Emergency Procedures
 9. Training Courses
 10. Club Complaints Procedure

@@ -1,6 +1,6 @@
 # Oxford University Judo Club
 
-## Code of Conduct 20122-2023
+## Code of Conduct 2022-2023
 
 ### Overview
 
@@ -9,12 +9,13 @@
 3. Specialist Officers
 4. Event Organisers & Activity Leaders
 5. University/Club Activities
-6. First Aid
+6. Coaching and Public Liability Insurance Cover
 7. Activity Registration
-8. Accident and Emergency Procedures
-9. Training Courses
-10. Club Complaints Procedure
-11. Governing Body Recommendations
+8. First Aid
+9. Accident and Emergency Procedures
+10. Training Courses
+11. Club Complaints Procedure
+12. Governing Body Recommendations
 
 ### 1.0 Introduction
 

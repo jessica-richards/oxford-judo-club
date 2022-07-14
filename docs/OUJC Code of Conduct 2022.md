@@ -109,7 +109,7 @@
   - poor club administration
   - the lack of suitable activities for their level of participation
 
-- **8.2** Complaints concerning Club safety or operational matters should initially be addressed to the club President. If this does not prove satisfactory a written complaint should be made to the Sports Federation President. The matter will be considered at the next available OUSF Executive Committee Meeting.
+- **8.2** Complaints concerning Club [safety](https://web.archive.org/web/20120310001727/www.sport.ox.ac.uk/sports-federation/safety) or operational matters should initially be addressed to the club President. If this does not prove satisfactory a written complaint should be made to the Sports Federation President. The matter will be considered at the next available OUSF Executive Committee Meeting.
 
 ### 9 Governing Body Recommendations
 

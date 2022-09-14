@@ -165,4 +165,4 @@ Any questions about the interpretation of this Constitution shall be settled by 
 
 **Approved at the OUJC Annual General Meeting**
 
-**18th May 2015**
+**13th June 2022**

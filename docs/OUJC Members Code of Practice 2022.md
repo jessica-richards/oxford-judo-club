@@ -41,7 +41,7 @@ It is expected that members and visitors alike will be aware of and conform to t
 - Every practice, however informal, is commenced and ended with a standing bow.
 - In practice sessions, the senior grade should always take responsibility for the welfare and the skill development of his or her less experienced or physically weaker practice partner to ensure that only safe skilful throws and breakfalls should be attempted and that the thrower exercises good control
 - Reckless, excessively heavy throws, or the over-energetic or sudden application of armlocks or strangleholds must be strictly avoided.
-- Advanced techniques such as maki-komi and sacrifice throws must only attempted by senior grades (blue belt and above) on those whom they know to have practised being thrown in this way.
+- Advanced techniques such as maki-komi and sacrifice throws must only be attempted during practice by senior grades (blue belt and above) on those whom they know to have practised being thrown in this way.
 - In groundwork, excessive use of strength should be avoided; techniques must be terminated at the first indication of a submission (or even before if the attacker (*tori*) has any suspicion that the defender (*uke*) is not in a position to respond).
 - In non-competitive free practice, excessively defensive postures and tactics should be avoided and junior grades should be encouraged to attempt as many techniques as possible, following them through to a successful conclusion.
 

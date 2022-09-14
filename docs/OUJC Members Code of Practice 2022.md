@@ -10,7 +10,7 @@
 
 **Training sessions** are structured to serve the separate needs of three groups of members viz:
 
-- Experienced players who wish to participate competitively at BUSA, BJA Regional or even national and international level.
+- Experienced players who wish to participate competitively at BUCS, BJA Regional, national, or international level.
 - Intermediate level members who have no strong competitive ambitions but enjoy the sport and its cultural associations and find it an excellent form of physical and mental recreation.
 - Complete beginners and 'rejoiners' for whom special training sessions are held weekly in the Michaelmas term run by one of the Senior Club Coaches supported by members.
 

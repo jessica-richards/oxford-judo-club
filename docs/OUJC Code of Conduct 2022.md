@@ -65,7 +65,7 @@
 
   Position        | Name             | Email
   ----------------|------------------|-----------------------------
-  Social Secretary and Communtications Officer | Sanna Djurhuus | sannadjurhuus@gmail.com
+  Social Secretary and Communtications Officer | - | -
   Webmaster       | Emma Burnet      | microsqueek@gmail.com
 
 ### 4 Event Organisation

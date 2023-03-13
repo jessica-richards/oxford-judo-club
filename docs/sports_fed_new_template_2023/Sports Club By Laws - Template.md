@@ -1,4 +1,4 @@
-# By-Laws of the Oxford University Judo Club**
+# By-Laws of the Oxford University Judo Club
 
 _**From Michaelmas Term 2022**_
 
@@ -14,16 +14,21 @@ _**From Michaelmas Term 2022**_
 The committee shall function as per the club's constitution. The following committee members roles, in addition to the officers named in the constitution, shall be included on the clubs committee: -
 
 1. The Men's Captain shall:
-    1.
-    2.
-    3.
-    4.
+   1. Be responsible, with the President and Coaches, for team selection for the annual Varsity match against Cambridge University;
+   2. Be responsible, with the President and Coaches, for awarding Discretionary Blues;
+   3. Attend all meetings of the men's and women's Blues' Committees;
+   4. Attend all meetings of the Oxford University Sports Federation;
+   5. Ensure that beginners' training, and competitive and technical progression is being addressed;
+   6. Support the coaches in organising and running weekly training sessions;
+   7. Organise, as appropriate, extra fitness and judo training sessions.
 2. The Women's Captain shall:
-    1.
-    2.
-    3.
-    4.
-    5.
+   1. Be responsible, with the President and Coaches, for team selection for the annual Varsity match against Cambridge University;
+   2. Be responsible, with the President and Coaches, for awarding Discretionary Blues;
+   3. Attend all meetings of the men's and women's Blues' Committees;
+   4. Attend all meetings of the Oxford University Sports Federation;
+   5. Ensure that beginners' training, and competitive and technical progression is being addressed;
+   6. Support the coaches in organising and running weekly training sessions;
+   7. Organise, as appropriate, extra fitness and judo training sessions.
 
 ## [ADDITIONAL SECTION]
 
@@ -33,7 +38,7 @@ The committee shall function as per the club's constitution. The following commi
 
 1. Changes to these By-Laws must be approved at a General Meeting with the approval of two-thirds of present, eligible and voting members
 
-## INTERPRETATION
+## Interpretation
 
 1. Any question about the interpretation of these By-Laws shall be settled by the Senior Member of the club.
 2. Guidance relating to by-laws and their relationship to the club constitution can be sought from the Sports Federation.

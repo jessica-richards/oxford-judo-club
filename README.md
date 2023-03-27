@@ -24,7 +24,7 @@ As well as other materials related to the club.
 
 <p align="center">
 
-[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/oxfordjudo/) [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oxfordjudo/) [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oxfordjudo) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCshE6bR3LfpkElqKC1vLfjw)
+[![Facebook](https://img.shields.io/badge/-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/groups/oxfordjudo/) [![Instagram](https://img.shields.io/badge/-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/oxfordjudo/) [![Twitter](https://img.shields.io/badge/-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/oxfordjudo) [![YouTube](https://img.shields.io/badge/-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCshE6bR3LfpkElqKC1vLfjw) [![Stack Exchange](https://img.shields.io/badge/-%23ffffff.svg?logo=StackExchange&logoColor=white)](https://stackoverflowteams.com/c/oxford-judo)
 
 </p>
 

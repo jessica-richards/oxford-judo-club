@@ -10,11 +10,12 @@
 
 Repo for Oxford Judo Club documents. Contains history of updates and revisions to the club:
 
-- [Constitution](/docs/Sports%20Club%20Constitution%20-%20Template.md)
-- [Code of Conduct](/docs/Sports%20Club%20Code%20of%20Conduct%20-%20Template.md)
-- [Complaints Procedure](/docs/Sports%20Club%20Complaints%20Procedure%20-%20Template.md)
-- [Safety Policy](Sports%20Club%20Safety%20Policy%20-%20Template.md)
-- [Risk Assessment](/docs/OUJC%20Risk%20Assessment%202022.pdf) ([raw link](https://docs.google.com/spreadsheets/d/1KlHygRLSfW8raIrFxAiWrRzbJLLxUsDVDe983592kdY/edit?usp=sharing))
+- [Constitution](/docs/Sports%20Club%20Constitution%20-%20OUJC.md)
+- [By Laws](/docs/Sports%20Club%20By%20Laws%20-%20OUJC.md)
+- [Code of Conduct](/docs/Sports%20Club%20Code%20of%20Conduct%20-%20OUJC.md)
+- [Complaints Procedure](/docs/Sports%20Club%20Complaints%20Procedure%20-%20OUJC.md)
+- [Safety Policy](Sports%20Club%20Safety%20Policy%20-%20OUJC.md)
+- [Risk Assessment](/docs/Sports%20Club%20Risk%20Assessment%20OUJC.pdf) ([raw link](https://docs.google.com/spreadsheets/d/1KlHygRLSfW8raIrFxAiWrRzbJLLxUsDVDe983592kdY/edit?usp=sharing))
 
 As well as other materials related to the club.
 

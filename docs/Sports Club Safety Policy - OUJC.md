@@ -7,7 +7,7 @@
 3. The club affiliates to the National Governing Body (NGB) for any / all sporting activity in which the club operates activity, as per the club's constitution.
    1. The club acknowledges that it is the club's responsibility to ensure that its current activities adhere to the regulations and guidelines of the NGB(s) that the club affiliates to. Support and guidance are also available via the Sports Safety Officer.
    2. The club is currently affiliated to the British Judo Association (BJA) and will continue to be affiliated for the full academic year.
-4. This policy is updated at least once a year, for the beginning of the academic year. An updated version of this document is submitted to the Sports Federation at least once per academic year, through the club handover process, and is subsequently updated immediately, and re-submitted (via safety@sport.ox.ac.uk) should any changes be required. This is a live policy relating to all club activities and is updated frequently.
+4. This policy is updated at least once a year, for the beginning of the academic year. An updated version of this document is submitted to the Sports Federation at least once per academic year, through the club handover process, and is subsequently updated immediately, and re-submitted (via <safety@sport.ox.ac.uk>) should any changes be required. This is a live policy relating to all club activities and is updated frequently.
 5. The updated version of this document, and all other club documentation, is made available to the club's members via the club's website. This is also updated immediately, when changes are required.
 
 ## Overview of Activities
@@ -63,9 +63,10 @@
 
 ## Coaching
 
-   4. Any sports coaching that takes place within club activities is led by individuals with appropriate qualifications and insurance in place. Coaching is defined as the process of motivating, guiding, and providing technical advice or training to individual(s) or teams, relating to the sport or activity in question.
-   5. Coaching can come in a variety of forms. This requirement includes external contracted instructors or coaches (whether permanent or visiting), club members, student leaders and volunteers, who all must have the correct qualifications and insurance in place.
-   6. Volunteer instructors or coaches can, in some circumstances, have insurance cover through the sports NGB without having a qualification, but any insurance in place must still be clarified and evidenced and the club will maintain up to date records of those insurance details.
+13.
+    1. Any sports coaching that takes place within club activities is led by individuals with appropriate qualifications and insurance in place. Coaching is defined as the process of motivating, guiding, and providing technical advice or training to individual(s) or teams, relating to the sport or activity in question.
+    2. Coaching can come in a variety of forms. This requirement includes external contracted instructors or coaches (whether permanent or visiting), club members, student leaders and volunteers, who all must have the correct qualifications and insurance in place.
+    3. Volunteer instructors or coaches can, in some circumstances, have insurance cover through the sports NGB without having a qualification, but any insurance in place must still be clarified and evidenced and the club will maintain up to date records of those insurance details.
 
 ##
 
